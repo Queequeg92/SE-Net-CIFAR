@@ -213,7 +213,7 @@ def adjust_learning_rate(optimizer, epoch):
 # Training
 def train(train_loader, model, criterion, optimizer, writer, epoch):
     print('\nEpoch: %d -> Training' % epoch)
-    # Set to eval mode.
+    # Set to train mode.
     model.train()
     sample_time = AverageMeter()
     losses = AverageMeter()
