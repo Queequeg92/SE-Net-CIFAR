@@ -2,7 +2,7 @@ SE-Net Incorporates with ResNet and WideResnet on CIFAR-10/100 Dataset
 =============
 ----------
 
-This is a SE-Net implementation based on the slides of "Squeeze-and-Excitation Networks" [3] on CVPR 2017 "Beyond Imagenet" workshop.  
+This is a SE-Net implementation based on "Squeeze-and-Excitation Networks" [3] on CVPR 2017 "Beyond Imagenet" workshop.  
 We combine SE Module with ResNet-164 and WideResnet28-10 to construct SeResNet-164 and SeWideResNet28-10 respectively. For details of ResNet-164 and WideResNet28-10, please refers to the original papers [1] and [2].  
 We evaluate SeResNet-164 and SeWideResNet28-10 on cifar-10 and cifar-100 datasets. 
 For details of the hyperparameters and training processes, please refer to the /scripts folder.
