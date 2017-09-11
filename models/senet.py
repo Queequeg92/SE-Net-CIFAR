@@ -14,10 +14,8 @@
 # ==============================================================================
 
 """SE-Net model.
-This implementation is based on the slides of "Squeeze-and-Excitation Networks" on CVPR
-2017 "Beyond Imagenet" workshop.
-url: http://image-net.org/challenges/talks_2017/SENet.pdf
-
+Related Paper:
+[1] Hu, Jie, Li Shen, and Gang Sun. "Squeeze-and-Excitation Networks." arXiv preprint arXiv:1709.01507 (2017).
 """
 
 import torch
