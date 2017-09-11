@@ -48,4 +48,5 @@ sh resnet164.sh
     Computer Vision, pp. 630-645. Springer International Publishing, 2016.  
 [2] Zagoruyko, Sergey, and Nikos Komodakis. "Wide residual networks." arXiv
     preprint arXiv:1605.07146 (2016).  
-[3] http://image-net.org/challenges/talks_2017/SENet.pdf
+[3] Hu, Jie, Li Shen, and Gang Sun. "Squeeze-and-Excitation Networks." arXiv  
+    preprint arXiv:1709.01507 (2017).
